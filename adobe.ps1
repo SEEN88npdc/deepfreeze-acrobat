@@ -1,0 +1,1 @@
+winget install -s winget --accept-package-agreements --accept-source-agreements --id Adobe.Acrobat.Reader.64-bit
